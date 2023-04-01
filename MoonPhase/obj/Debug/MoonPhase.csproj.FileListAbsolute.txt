@@ -1,0 +1,9 @@
+C:\DemoGit\Moon_C\MoonPhase\bin\Debug\MoonPhase.exe
+C:\DemoGit\Moon_C\MoonPhase\bin\Debug\MoonPhase.pdb
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.csproj.AssemblyReference.cache
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.frmMoon.resources
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.csproj.GenerateResource.cache
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.csproj.CoreCompileInputs.cache
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.exe
+C:\DemoGit\Moon_C\MoonPhase\obj\Debug\MoonPhase.pdb
+C:\DemoGit\Moon_C\MoonPhase\bin\Debug\MoonPhase.exe.config
